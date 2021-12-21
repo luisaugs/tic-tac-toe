@@ -53,10 +53,9 @@ body{
 }
 
 .box-winner {
-    /* background-color: rgb(114, 163, 163); */
     background-color: rgb(145,200, 125);
+    border: 1px solid rgb(20, 20, 20);
     font-weight: bold;
-    border: 2px solid rgb(20, 20, 20)
 }
 
 .box:nth-child(1) {

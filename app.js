@@ -65,16 +65,9 @@ const checkBoard = (id, result) => {
     }
 }
 
-
-// btn.addEventListener('click', () => {
-//     location.reload()
-// })
-
 btn.addEventListener('click', () => {
-    // location.reload()
-    
+    location.reload()
 })
-
 
 const winner = () => {
     userInfo.classList.remove('hide');
